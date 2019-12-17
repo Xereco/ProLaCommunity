@@ -3,11 +3,6 @@
  * Version 2.0.1
  * Robert Borghese
  */
-console.log("₱ⱤØ Ⱡ₳ ₵Ø₥₥Ʉ₦ł₮Ɏ ฿Ø₮")
-
-
-
-
 
 const DBM = {};
 const DiscordJS = DBM.DiscordJS = require('discord.js');
